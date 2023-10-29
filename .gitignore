@@ -1,0 +1,5 @@
+.idea/
+reports/
+src/
+target/
+testng.xml
